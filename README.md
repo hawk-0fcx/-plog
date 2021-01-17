@@ -1,0 +1,2 @@
+# -plog
+İp Log Tutma 
