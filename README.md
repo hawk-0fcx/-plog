@@ -1,2 +1,2 @@
 # -plog
-İp Log Tutma 
+<h1>XSS FİXLENDİ :) </h1>
